@@ -1,4 +1,4 @@
-#1 store_cafe
+# store_cafe
 # RWD 
 # Web layout  
 # html
